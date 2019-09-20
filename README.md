@@ -17,3 +17,5 @@ You will see how to recall the upload and download functions, sending and receiv
 The test file is generated in the iOS application's Documents folder via the FileManager path (this folder will also be used to receive file recovery from the DropBox account to the iOS application).
 
 Everything can be monitored through Xcode's output and a connected iPhone (or iPad).
+
+More info here: [How to exchange data between Swift and Dropbox](https://medium.com/@jkdory83/how-to-exchange-data-between-swift-and-dropbox-39c3805d9a04)
