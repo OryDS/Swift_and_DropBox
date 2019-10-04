@@ -1,12 +1,12 @@
 ![Swift DropBox](https://user-images.githubusercontent.com/43349628/66216607-12830400-e6c6-11e9-812f-a99a83a37ab7.jpg)
 # Swift_and_DropBox
-[![Swift](https://img.shields.io/badge/Swift-5.3-orange.svg)](https://swift.org)
-[![Xcode](https://img.shields.io/badge/Xcode-10.3-blue.svg)](https://developer.apple.com/xcode)
+[![Swift](https://img.shields.io/badge/Swift-5.1-orange.svg)](https://swift.org)
+[![Xcode](https://img.shields.io/badge/Xcode-11.0-blue.svg)](https://developer.apple.com/xcode)
 [![Dropbox](https://img.shields.io/badge/Dropbox-Cloud_Storage-blue.svg)](https://www.dropbox.com/login?cont=https%3A%2F%2Fwww.dropbox.com%2Fdevelopers%2Fapps)
 
 
 
-Application written with Swift 5.3 on Xcode 10.3.
+Application written with Swift 5.1 on Xcode 11.0.
 
 This application integrates Dropbox Swift SDK with DropBox API v2.
 
