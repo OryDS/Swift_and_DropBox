@@ -6,7 +6,7 @@
 
 
 
-Application written with Swift 5.1 on Xcode 11.0.
+Application written with Swift 5.1 on Xcode 11.0
 
 This application integrates Dropbox Swift SDK with DropBox API v2.
 
