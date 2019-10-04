@@ -1,4 +1,4 @@
-![Swift DropBox](https://user-images.githubusercontent.com/43349628/64868858-70c94380-d640-11e9-9755-bab2d1397cbc.jpg)
+![Swift DropBox](https://user-images.githubusercontent.com/43349628/66216607-12830400-e6c6-11e9-812f-a99a83a37ab7.jpg)
 # Swift_and_DropBox
 [![Swift](https://img.shields.io/badge/Swift-5.3-orange.svg)](https://swift.org)
 [![Xcode](https://img.shields.io/badge/Xcode-10.3-blue.svg)](https://developer.apple.com/xcode)
